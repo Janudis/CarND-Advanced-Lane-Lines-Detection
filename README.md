@@ -21,5 +21,8 @@ The images for camera calibration are stored in the folder called `camera_cal`. 
 
 The `challenge_video.mp4` video is an extra (and optional) challenge for you if you want to test your pipeline under somewhat trickier conditions.  The `harder_challenge.mp4` video is another optional challenge and is brutal!
 
+# About Code
 
+The image_util.py file is created for loading, saving and plotting the images. We use it in other files. You can test it with the test_image_util.py file.
+You can test the camera_calibration, pipeline and videoprocess files with the test files.
 
